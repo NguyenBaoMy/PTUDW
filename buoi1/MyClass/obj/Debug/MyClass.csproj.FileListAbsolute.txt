@@ -1,0 +1,12 @@
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\MyClass.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\MyClass.pdb
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\obj\Debug\MyClass.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\obj\Debug\MyClass.pdb
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\MyClass.dll.config
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\EntityFramework.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\EntityFramework.xml
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\MyClass\obj\Debug\MyClass.csproj.CopyComplete

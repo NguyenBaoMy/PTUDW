@@ -77,3 +77,10 @@ D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\obj\Debug\PTUDW_NBM.csproj.CoreCompile
 D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\obj\Debug\PTUDW_NBM.csproj.CopyComplete
 D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\obj\Debug\PTUDW_NBM.dll
 D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\obj\Debug\PTUDW_NBM.pdb
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\EntityFramework.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\EntityFramework.SqlServer.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\EntityFramework.xml
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\EntityFramework.SqlServer.xml
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\MyClass.dll
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\MyClass.pdb
+D:\HK1_2324\ASP.NET\PTUDW\buoi1\PTUDW_NBM\bin\MyClass.dll.config
